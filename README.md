@@ -1,1 +1,4 @@
-# miracle
+Resolusi
+-uji coba
+-belajar
+-kuliah
